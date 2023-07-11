@@ -4,7 +4,6 @@
   align-items: center;
   justify-content: space-between;
   height: 850px;
-  
 }
 
 .nav-heading {
@@ -13,8 +12,6 @@
   font-size: 80px;
 
   font-weight: 800;
-  
- 
 }
 
 .nav-paragraph {
@@ -23,9 +20,6 @@
   font-size: 18px;
 
   font-weight: 400;
- 
- 
-  
 }
 
 .nav-button {
@@ -37,12 +31,11 @@
   background: #e55473;
   color: aliceblue;
   border: 0px;
- 
-  
 }
 
-.nav-text {margin: 0px 0px 0px 220px;
-    /* justify-content: space-between; */
+.nav-text {
+  margin: 0px 0px 0px 220px;
+  /* justify-content: space-between; */
 }
 
 .nav-flower {
@@ -50,5 +43,50 @@
   margin-top: 111px;
 }
 
-.rose {width: 318px;}
+.section-offer {
+  display: flex;
+  height: 620px;
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+  margin-top: 128px;
+  align-items: center;
+  justify-content: center;
+}
 
+.offer-heading {
+  color: #272727;
+  font-family: Lato;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+
+.offer-paragraph{color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: px;
+}  
+
+.sign-up {padding: 20px 43px;
+    background-color: #E55473;;
+    
+    
+    border-radius: 8px;
+    color: #FFF;
+    
+    font-size: 20px;
+    
+    font-weight: 700;
+    margin-left: 150px;
+    }
+
+    .section-offer-flower {padding-left: 150px;}
+.rose {
+  width: 318px;
+}
+span {color: #E55473;}
