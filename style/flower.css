@@ -1,0 +1,54 @@
+.navbar {
+  display: flex;
+  background-color: rgba(229, 84, 115, 0.1);
+  align-items: center;
+  justify-content: space-between;
+  height: 850px;
+  
+}
+
+.nav-heading {
+  color: #272727;
+  font-family: Lato;
+  font-size: 80px;
+
+  font-weight: 800;
+  
+ 
+}
+
+.nav-paragraph {
+  color: rgba(39, 39, 39, 0.6);
+
+  font-size: 18px;
+
+  font-weight: 400;
+ 
+ 
+  
+}
+
+.nav-button {
+  /* display: inline-flex; */
+  padding: 20px 43px;
+  /* align-items: flex-start; */
+  gap: 10px;
+  border-radius: 8px;
+  background: #e55473;
+  color: aliceblue;
+  border: 0px;
+ 
+  
+}
+
+.nav-text {margin: 0px 0px 0px 220px;
+    /* justify-content: space-between; */
+}
+
+.nav-flower {
+  width: 590px;
+  margin-top: 111px;
+}
+
+.rose {width: 318px;}
+
